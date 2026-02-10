@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./src/app.tsx","./src/main.tsx","./src/components/column.tsx","./src/components/leftnav.tsx","./src/components/lists.tsx","./src/components/navcards.tsx"],"version":"5.9.3"}

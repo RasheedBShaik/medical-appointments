@@ -1,3 +1,5 @@
+import React from 'react';
+
 interface JonesItem {
   name: string;
   bgc: string;
